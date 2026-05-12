@@ -2,6 +2,8 @@
 Abhinav
 <br>
 I’m currently in college
+<br>
+I’m looking to collaborate
 
 <!--
 **Abhinav-pratap-singh-cs/Abhinav-pratap-singh-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
