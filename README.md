@@ -1,6 +1,6 @@
 ## Hi there 👋
 Abhinav
-<hr>
+<br>
 I’m currently in college
 
 <!--
