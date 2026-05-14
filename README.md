@@ -4,6 +4,8 @@ Abhinav
 I’m currently in college
 <br>
 I’m looking to collaborate
+<br>
+doing cs50x
 
 <!--
 **Abhinav-pratap-singh-cs/Abhinav-pratap-singh-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
