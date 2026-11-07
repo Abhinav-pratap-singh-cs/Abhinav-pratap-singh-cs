@@ -5,7 +5,7 @@ I’m currently in college
 <br>
 I’m looking to collaborate
 <br>
-doing cs50x 
+doing cs50x completed
 completed
 
 <!--
